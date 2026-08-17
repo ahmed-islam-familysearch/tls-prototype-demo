@@ -1,0 +1,2 @@
+Release 1 — Aug 12, 2026
+The original demo, preserved exactly as it was deployed.

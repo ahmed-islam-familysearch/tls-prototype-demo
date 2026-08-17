@@ -1,0 +1,3 @@
+Release 2 — Aug 18, 2026
+Trees tab, live insert on every line, tribal layer polish
+Source: multiple-trees @ 8c5df69
