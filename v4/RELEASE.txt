@@ -1,3 +1,0 @@
-Release 4 — Aug 18, 2026
-Tree, then page leads the layout options
-Source: flexible-layout @ 022c34b
