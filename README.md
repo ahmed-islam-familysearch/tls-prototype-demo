@@ -6,7 +6,7 @@ Built output only. The source lives in a private working repo.
 
 ## Every release
 
-- [`v4`](https://ahmed-islam-familysearch.github.io/tls-prototype-demo/v4/) — Confederations and affiliated tribes: the tribal alliance layer, plus a real scanned book you can read on screen *(also at the site root)*
+- [`v4`](https://ahmed-islam-familysearch.github.io/tls-prototype-demo/v4/) — Confederations and affiliated tribes: the tribal alliance layer, a real scanned book you can read on screen, and Export/Import so your work on a source can be sent to someone else *(also at the site root)*
 - [`v3`](https://ahmed-islam-familysearch.github.io/tls-prototype-demo/v3/)
 - [`v2`](https://ahmed-islam-familysearch.github.io/tls-prototype-demo/v2/)
 - [`v1`](https://ahmed-islam-familysearch.github.io/tls-prototype-demo/v1/)
