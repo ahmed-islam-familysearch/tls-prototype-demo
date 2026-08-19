@@ -1,3 +1,3 @@
 Release 4 — Aug 19, 2026
-Confederations and affiliated tribes: the tribal alliance layer, a real scanned book you can read on screen, and Export/Import so your work on a source can be sent to someone else
-Source: source-material @ 26bfd64
+Confederations and affiliated tribes, a real scanned book you can read on screen, Export/Import to hand your work on a source to someone else, drag a person (or a whole branch) onto a card or a line to relate them, ⌘/Ctrl-click to select several cards for a bulk delete or tribe assignment, and each source reopens on the page you left
+Source: source-material @ 85ca869
